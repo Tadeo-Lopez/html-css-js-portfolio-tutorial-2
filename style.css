@@ -13,6 +13,7 @@ body {
 
 html {
   scroll-behavior: smooth;
+  background: repeating-linear-gradient(#d7edff 10%, #edeeff 20%, #d7edff 40%);
 }
 
 p {
@@ -166,7 +167,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 60vh;
 }
 
 .section__pic-container {
@@ -195,7 +196,7 @@ section {
 }
 
 .title {
-  font-size: 3rem;
+  font-size: 6rem;
   text-align: center;
 }
 
